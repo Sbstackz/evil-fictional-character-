@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+ body{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-H7qHrvPg1U-th6ilf5yUNiff2ud69N1GhSl2uMSSJR5iUbIs") ;
+        margin:0;
+        background-size: 100%;
+        font-family: ;
+        font-size: ;
+
+     }
+ 
+
+     }
+    	#banner{
+        height:150px;
+    		width:500px;
+    		margin:0 auto;
+    		text-align:center;
+        padding: 10px;
+      background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-H7qHrvPg1U-th6ilf5yUNiff2ud69N1GhSl2uMSSJR5iUbIs"); */
+        border: solid 2px blue;
+        background-size:2000%;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+
+
+    	}
+      p {
+        color:white;
+        font-size: 30px;
+
+
+      }
+      li {
+        color:green;
+        font-size: 30px;
+      }
+      #names{
+        text-align: center;
+        color: red;
+        font-size: 30px;
+      }
+      
+    	#nav{
+        white-space: nowrap;
+        text-align: center;
+        
+      }
+      #nav a{
+          font-family: ;
+          font-weight: bold;
+          text-transform: uppercase;
+          margin-right: 10px;
+          padding: 10px;
+
+      }
+      #main{
+        width:(your choice)px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border: solid red 2px;
+        height: 1000px
+        
+
+      }
+
+    
+
+      #rcorners1 {
+        border-radius: 25px;
+        background: #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 50px;
+        color:yellow;
+        }
+      #rcorners2 {
+        border-radius: 25px;
+        border: 2px solid #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 50px;
+        color: yellow;
+      }
+      #rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 50px; }
+
+      }
+
+      #footer{
+        width:;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: ;
+        color:yellow ;
+        font-size: ;
+        text-transform: uppercase;
+        border:bottom;
+        padding-top: ;
+
+      }
+      .imgLeft{
+        float: left;
+        margin-right:15;
+
+      }
+      .imgRight{
+        float: right;
+        margin-left: 15;
+
+      }
+      .monster{
+      height: 500px;
+      width: 500px
+
+
+      }
+
+
